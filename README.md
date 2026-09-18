@@ -4,10 +4,6 @@ Reusable agent skills for clearer product decisions and more reliable execution.
 
 Built by Karo Zieminski — subscribe at [karozieminski.substack.com](https://karozieminski.substack.com)
 
-## Guides for product managers and teams
-
-- [How to Govern AI Agent Fleets Inside a Product Team](https://karozieminski.substack.com/p/agentic-fleet-governance-product-teams) — By Karo Zieminski and Chris Iljams (ToxSec). A practical guide to agent identity, permissions, control planes, delegation, and lifecycle management, with an eight-question governance checklist and a reusable control-plane record template.
-
 ## Skills
 
 <!-- BEGIN GENERATED SKILLS INDEX -->
@@ -50,3 +46,23 @@ Built by Karo Zieminski — subscribe at [karozieminski.substack.com](https://ka
 - [Value Proposition Canvas Builder](skills/strategyzer/value-prop-canvas-builder/SKILL.md) — Evidence-tagged VPC for any product, with fit verdicts.
 
 <!-- END GENERATED SKILLS INDEX -->
+
+## Guides for product managers and teams
+
+- [How to Govern AI Agent Fleets Inside a Product Team](https://karozieminski.substack.com/p/agentic-fleet-governance-product-teams) — By Karo Zieminski and Chris Iljams (ToxSec). A practical guide to agent identity, permissions, control planes, delegation, and lifecycle management, with an eight-question governance checklist and a reusable control-plane record template.
+
+## Design prompts
+
+Newsletter hero designs and replication prompts from [Product with Attitude's Design Resources](https://productwithattitude.com/design-resources). Downloads require a Premium Member code.
+
+- [Frosted Cat](https://productwithattitude.com/design-resources#frosted-cat) — A poster-style newsletter hero with festival-poster restraint: a black cat emerging through a frosted off-white surface, one yellow accent used exactly twice (the giant lowercase wordmark and the logo squares), everything else black and grey. Comes as one self-contained HTML file with the frosted-cat photograph and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Nocturne Hummingbird](https://productwithattitude.com/design-resources#nocturne-hummingbird) — A nocturne natural-history plate as a newsletter hero: a painterly hummingbird with glowing coral stained-glass wings fills the right two-thirds of a pure black page, edge to edge, while the headline overlaps the wing's dark edge and a vertical plate caption runs down the right. Comes as one self-contained HTML file with the artwork and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Waterline Editorial](https://productwithattitude.com/design-resources#watercolor-editorial) — A fine-art newsletter hero section painted in watercolor: a woman with copper hair half-submerged in deep green water under a pale sage sky, with the italic headline splitting at the waterline, outlined above and solid below. Comes as one self-contained HTML file with the Kimi 3 artwork, hand-lettered stat notes, and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Fogged Glass](https://productwithattitude.com/design-resources#fogged-glass) — A condensation-covered portrait where a wiped-clear band reveals a pair of eyes, with the headline split across the fog: "The ideas worth" sits top-left, "your inbox." lands mid-right. Comes as one self-contained HTML file with the fog photograph and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Graffiti Editorial](https://productwithattitude.com/design-resources#graffiti-editorial) — A CMYK street-art zine as a newsletter hero: spray-paint splatter over vintage print illustrations, per-letter multicolor display type, a yellow tape-strip kicker, and hard offset shadows on every solid block. Comes as one self-contained HTML file with the splatter artwork and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Surreal Collage](https://productwithattitude.com/design-resources#surreal-collage) — A newsletter hero section built like a dreamy risograph collage: cobalt-to-peach gradient sky, halftone mountain range, paper-plane balloon, and a wax-seal sun. Comes as one self-contained HTML file with inline CSS, responsive stat cards, and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Futurist Glass](https://productwithattitude.com/design-resources#futurist-glass) — A futuristic-minimalist newsletter hero: a full-bleed triptych portrait split into a solid cerulean panel, a sharp macro face, and a frosted-glass blur. Light Space Grotesk typography floats over a left scrim, "your inbox." lights up in icy blue, and four stats sit on a hairline strip. Comes as one self-contained HTML file with the Kimi 3 artwork and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Dark Botanical Glass](https://productwithattitude.com/design-resources#dark-botanical-glass) — A cinematic newsletter hero on near-black: moody moss forest photography bleeding in from both edges, glass fern leaves framing the content, a mixed grotesk and italic serif headline, and a frosted glass signup pill. Comes as one self-contained HTML file with three moss photographs and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Alpine Coordinates](https://productwithattitude.com/design-resources#alpine-coordinates) — A golden-hour expedition as a newsletter hero: jagged Dolomites at sunset, a giant outlined DISPATCH wordmark with the rock showing through the hollow letters, a coordinates detail line, and a frosted glass signup pill over a warm scrim. Comes as one self-contained HTML file with the mountain backdrop and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Generative Studio](https://productwithattitude.com/design-resources#generative-studio) — A generative-art newsletter hero: a full-bleed monochrome particle dispersion form runs edge to edge on the right while a technical grid of hairline verticals and crosshair marks keeps the left quiet. Bold grotesk headline with a lime highlight on "your inbox." Comes as one self-contained HTML file with the particle render and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
+- [Paper Terrain](https://productwithattitude.com/design-resources#paper-terrain) — A surreal newsletter hero where rolling desert dunes are made of giant open-book pages, with a woman in a flowing red dress as the single vivid accent. Whisper-quiet typography on top: warm ink grotesk, a red italic serif "your inbox.", and a frosted cream signup pill. Comes as one self-contained HTML file with the book-terrain artwork and a replication prompt for Claude, Cursor, Replit, Lovable or v0.
