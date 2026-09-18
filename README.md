@@ -4,6 +4,10 @@ Reusable agent skills for clearer product decisions and more reliable execution.
 
 Built by Karo Zieminski — subscribe at [karozieminski.substack.com](https://karozieminski.substack.com)
 
+## Guides for product managers and teams
+
+- [How to Govern AI Agent Fleets Inside a Product Team](https://karozieminski.substack.com/p/agentic-fleet-governance-product-teams) — By Karo Zieminski and Chris Iljams (ToxSec). A practical guide to agent identity, permissions, control planes, delegation, and lifecycle management, with an eight-question governance checklist and a reusable control-plane record template.
+
 ## Skills
 
 <!-- BEGIN GENERATED SKILLS INDEX -->
