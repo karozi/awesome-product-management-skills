@@ -51,6 +51,11 @@ Built by Karo Zieminski — subscribe at [karozieminski.substack.com](https://ka
 
 - [How to Govern AI Agent Fleets Inside a Product Team](https://karozieminski.substack.com/p/agentic-fleet-governance-product-teams) — By Karo Zieminski and Chris Iljams (ToxSec). A practical guide to agent identity, permissions, control planes, delegation, and lifecycle management, with an eight-question governance checklist and a reusable control-plane record template.
 
+## Design resources
+
+- [The Obscure and Iconic Design Websites That Make Me Want to Make Beautiful Things as a Builder](https://karozieminski.substack.com/p/iconic-and-niche-design-inspiration-bookmarks)
+
+
 ## Design prompts
 
 Newsletter hero designs and replication prompts from [Product with Attitude's Design Resources](https://productwithattitude.com/design-resources). Downloads require a Premium Member code.
